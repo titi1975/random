@@ -1,0 +1,1 @@
+Um projeto simples para o meu curso de probabilidade e estatística. Basicamente, um sorteador de números pseudoaleatórios que ainda precisa ser aprimorado
